@@ -1,0 +1,24 @@
+"completed_at": "2023-05-10T17:12:27.596216Z",
+  "created_at": "2023-05-10T17:12:22.774846Z",
+  "error": null,
+  "id": "ummwhpiea5hgrnluvn2tbotvmm",
+  "input": {
+    "image": "https://replicate.delivery/pbxt/IngEkQmZiZ3whtbkNAiOIdCsYAWVMkmoIBJnw7t2TPgvJn5S/photo.jpg",
+    "upscale": 1.5,
+    "face_upsample": true,
+    "background_enhance": true,
+    "codeformer_fidelity": 0.7
+  },
+  "logs": "detect 2 faces",
+  "metrics": {
+    "predict_time": 4.868006
+  },
+  "output": "https://replicate.delivery/pbxt/8A8hAKY9QsLABZBZY5dxmU1lY02UYL4JgBWKkp92sWkeEMdIA/output.png",
+  "started_at": "2023-05-10T17:12:22.728210Z",
+  "status": "succeeded",
+  "urls": {
+    "get": "https://api.replicate.com/v1/predictions/ummwhpiea5hgrnluvn2tbotvmm",
+    "cancel": "https://api.replicate.com/v1/predictions/ummwhpiea5hgrnluvn2tbotvmm/cancel"
+  },
+  "version": "7de2ea26c616d5bf2245ad0d5e24f0ff9a6204578a5c876db53142edd9d2cd56"
+}
